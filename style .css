@@ -1,0 +1,14 @@
+#btn{
+    height: 4rem;
+    width: 8rem;
+    font-size: x-large;
+    border-radius: 20%;
+    color: darkblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(0, 238, 255, 0.288);
+    border: 2px solid blue;
+}
+p{
+    font-size: larger;
+}
